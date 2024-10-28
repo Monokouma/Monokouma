@@ -1,5 +1,5 @@
 # Hola I'm Monokouma 👋 
-![android](https://github.com/Monokouma/Monokouma/blob/main/android-developer.svg)
+![android](https://github.com/Monokouma/Monokouma/blob/main/android-developer.svg) ![iOS](https://github.com/Monokouma/Monokouma/blob/main/ios-developer.svg)
 
 
 
