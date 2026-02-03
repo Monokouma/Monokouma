@@ -4,10 +4,10 @@
 
 ## 🚀 Currently working at
 
-[![Phonix Health](https://github.com/Monokouma/Monokouma/blob/main/phonix-health.svg)](https://phonix-health.com)
+[![Alpes Contrôles](https://github.com/Monokouma/Monokouma/blob/main/badge-alpes-controlees.svg)](https://www.alpes-controles.fr/)
 
-**Phonix Health** is an incubating startup building a cross-platform solution to fight screen addiction.  
-Powered by **Linksium** and **Ageis Laboratory**.
+**Alpes Contrôles** is a French company specializing in risk prevention for construction and building projects.
+Expertise in technical inspection, safety coordination, and environmental diagnostics.
 
 ---
 
