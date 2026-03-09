@@ -20,7 +20,7 @@ Expertise in technical inspection, safety coordination, and environmental diagno
 ![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
 **Architecture**  
-Clean Architecture • MVVM • MVI
+Clean Architecture • MVVM
 
 **Tools**  
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
