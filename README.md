@@ -2,15 +2,6 @@
 
 ![Android](https://github.com/Monokouma/Monokouma/blob/main/android-developer.svg) ![iOS](https://github.com/Monokouma/Monokouma/blob/main/ios-developer.svg)
 
-## 🚀 Currently working at
-
-[![Alpes Contrôles](https://github.com/Monokouma/Monokouma/blob/main/badge-alpes-controlees.svg)](https://www.alpes-controles.fr/)
-
-**Alpes Contrôles** is a French company specializing in risk prevention for construction and building projects.
-Expertise in technical inspection, safety coordination, and environmental diagnostics.
-
----
-
 ## 🛠 Tech Stack
 
 **Mobile**  
