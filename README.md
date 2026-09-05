@@ -2,6 +2,9 @@
 
 ![Android](https://github.com/Monokouma/Monokouma/blob/main/android-developer.svg) ![iOS](https://github.com/Monokouma/Monokouma/blob/main/ios-developer.svg)
 
+## Currently working at : 
+![AMAT](https://github.com/Monokouma/Monokouma/blob/main/applied-materials.svg)
+
 ## 🛠 Tech Stack
 
 **Mobile**  
