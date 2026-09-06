@@ -1,6 +1,6 @@
 # Hey, I'm Monokouma 👋
 
-![Android](https://github.com/Monokouma/Monokouma/blob/main/android-developer.svg) ![iOS](https://github.com/Monokouma/Monokouma/blob/main/ios-developer.svg)
+![SWE](https://github.com/Monokouma/Monokouma/blob/main/software-engineer.svg)
 
 ## Currently working at : 
 ![AMAT](https://github.com/Monokouma/Monokouma/blob/main/applied-materials.svg)
